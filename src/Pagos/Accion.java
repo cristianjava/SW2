@@ -9,7 +9,7 @@ package Pagos;
 /**
  *
  * @author usuario
- */
+ */// este cambio
 public interface Accion {
     public abstract int getcedula();
     public abstract String getnombre();
